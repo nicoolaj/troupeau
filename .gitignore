@@ -1,0 +1,19 @@
+# Dossier de Visual Studio Code
+.vscode/
+
+# Dossiers et fichiers du projet Laravel (back)
+/back/.env
+/back/.env.backup
+/back/vendor/
+/back/storage/*.key
+/back/public/storage
+/back/bootstrap/cache/
+
+# Dossiers et fichiers du projet React (front)
+/front/node_modules/
+/front/build/
+/front/.env
+/front/.env.local
+/front/.env.development.local
+/front/.env.test.local
+/front/.env.production.local
